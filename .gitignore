@@ -1,0 +1,32 @@
+# Git ignore for coherence_analysis project
+
+# Large binary files that are downloaded at runtime
+cc.tr.300.bin
+cc.tr.300.bin.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (regenerated at runtime)
+*_coherence_results.xlsx

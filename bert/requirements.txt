@@ -1,0 +1,7 @@
+# Turkish BERT Coherence Requirements
+jpype1>=1.4.0
+pandas>=2.0.0
+transformers>=4.30.0
+openpyxl>=3.1.0
+numpy>=1.24.0
+torch>=2.2.0
