@@ -109,4 +109,4 @@ Specified in the `requirements.txt` file in each folder. General requirements:
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0.
+This project is licensed under the CC-BY-4.0 license.
